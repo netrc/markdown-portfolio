@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+
+Here's the snippet with an image (![sunset](https://photos.app.goo.gl/pAJEe34KaQ7ayrPB7))
