@@ -1,1 +1,7 @@
-Replace this with your name, and include a header.
+# First Header
+
+RC: editor
+
+## A sub-header with little substance
+
+## Thanks
