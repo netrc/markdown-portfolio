@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+
+## Profile 
+
+See my profile at [Github/netrc](https://www.github.com/netrc)
